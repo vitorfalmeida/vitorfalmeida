@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @vitorfalmeida
+- I'm From Goiânia, Brazil. I search my first environmennt like a DEV.
+- Study JavaScript and Python, interest in  Node.JS
+- thinking about moving abroad.
