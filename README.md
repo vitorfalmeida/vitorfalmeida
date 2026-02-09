@@ -1,4 +1,12 @@
-- 👋 Hi, I’m @vitorfalmeida
-- I'm From Goiânia, Brazil. I search my first environmennt like a DEV.
-- Study JavaScript and Python, interest in  Node.JS
-- thinking about moving abroad.
+👋 Hi, I’m @vitorfalmeida
+
+💼 IT Professional & Software Developer
+
+🚀 Experience in designing, developing, deploying, and maintaining software solutions
+
+🛠️ Microsoft Ecosystem enthusiast:
+.NET • Azure • Azure DevOps • Azure Pipelines • TypeScript  
+(and everything around it 💙)
+
+  
+
